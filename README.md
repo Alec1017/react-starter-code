@@ -1,5 +1,7 @@
 # Starter code for a react application
 
+This code is meant to be a human-readable base for starting a react application. It's transparent enough to see how the setup of a react app works without getting you lost with too many configuration settings. 
+
 ## Usage
 
 Getting started
