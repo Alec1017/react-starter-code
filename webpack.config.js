@@ -3,7 +3,7 @@ const webpack = require('webpack');
 
 
 module.exports = {
-  entry: './src/index.js', // Where the application starts
+  entry: ['babel-polyfill', './src/index.js'], // Where the application starts
   module: {
     rules: [
       {

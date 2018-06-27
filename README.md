@@ -32,6 +32,7 @@ yarn lint
 ## Dev Dependencies
 - [babel-core](https://new.babeljs.io/docs/en/next/babel-core.html) - The main Babel package to perform transformations
 - [babel-cli](https://babeljs.io/docs/usage/cli/) - Compiles files from the command line
+- [babel-polyfill](https://babeljs.io/docs/en/babel-polyfill.html) - Provides polyfills necessary for a full ES6+ environment
 - [babel-preset-env](https://babeljs.io/docs/plugins/preset-env/) - Preset that transforms ES6 code into traditional javascript
 - [babel-preset-react](https://babeljs.io/docs/plugins/preset-react/) - Preset that transforms JSX code into traditional javascript
 ------
