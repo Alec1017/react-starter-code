@@ -9,7 +9,10 @@ module.exports = {
       {
         test: /\.(js|jsx)$/, // Transform ES6 and JSX files to javascript
         loader: 'babel-loader',
-        options: { presets: ['env'] },
+        options: { 
+          presets: ['env'],
+          plugins: ['transform-class-properties']
+        },
         exclude: /node_modules/,
       },
       {

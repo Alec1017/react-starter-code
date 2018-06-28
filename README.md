@@ -35,6 +35,7 @@ yarn lint
 - [babel-polyfill](https://babeljs.io/docs/en/babel-polyfill.html) - Provides polyfills necessary for a full ES6+ environment
 - [babel-preset-env](https://babeljs.io/docs/plugins/preset-env/) - Preset that transforms ES6 code into traditional javascript
 - [babel-preset-react](https://babeljs.io/docs/plugins/preset-react/) - Preset that transforms JSX code into traditional javascript
+- [babel-plugin-transform-class-properties](https://babeljs.io/docs/en/babel-plugin-transform-class-properties/) - Adds class fields and static properties to React
 ------
 - [webpack](https://webpack.js.org/) - Bundles javascript files for use in a browser
 - [webpack-cli](https://github.com/webpack/webpack-cli) - Run Webpack scripts from the command line
