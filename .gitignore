@@ -1,11 +1,8 @@
-# compiled output
-/dist
-
 # Dependency directories
 node_modules/
 
-# VSCode
-.vscode/*
+# Compiled output
+/dist
 
 # Logs
 logs
